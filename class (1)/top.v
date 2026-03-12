@@ -1,4 +1,4 @@
-module internet_valve(
+module top(
     input [15:0] sw,     
     input btnL, btnU,    //mux 
     input btnD, btnR,    //demux
@@ -26,4 +26,3 @@ module internet_valve(
     assign led[15:12] = (btnC && demux_sel == 2'b11) ? mux_out : 4'b0000;
 
 endmodule
-
