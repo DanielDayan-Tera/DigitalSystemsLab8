@@ -12,7 +12,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Daniel Dayan, Audrey Fitchet
+Daniel Dayan, Audrey Fitchett
 ## Summary
 We learned how to make multiplexers and demultiplexers and how they work, as well as 
 ## Lab Questions
