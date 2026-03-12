@@ -14,7 +14,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 ## Names
 Daniel Dayan, Audrey Fitchett
 ## Summary
-We learned how to make multiplexers and demultiplexers and how they work, as well as 
+We learned how to make multiplexers and demultiplexers and how they work, as well as using ternary statements and concatenation. We also got to experience how button work on the device.  
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
